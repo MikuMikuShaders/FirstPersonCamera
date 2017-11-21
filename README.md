@@ -1,6 +1,6 @@
 FirstPersonCamera
 ========
-`FirstPersonCamera` is an extension pack of MikuMikuDance, it is written in C++ and based on [MMDPlugin](https://bowlroll.net/file/135503)
+A WASD keyboard layout in MikuMikuDance, it is written in C++ and based on [MMDPlugin](https://bowlroll.net/file/135503)
 
 Requirements:
 -----------
@@ -9,9 +9,9 @@ Requirements:
 Install:
 -----------
 * Download a MMDPlugin from [here](https://bowlroll.net/file/135503).
-* Un-zip the MMDPlugin to `MikuMikuDance` path
+* Un-zip the MMDPlugin to `MikuMikuDance` folder
 * Download this plugin from the github [release](https://github.com/MikuMikuShaders/FirstPersonCamera/releases/download/v0.01/MMDFirstPersonCamera.rar) page.
-* Un-zip the archive to `MikuMikuDance/MMDFirstPersonCamera` path
+* Un-zip the archive to `MikuMikuDance/MMDFirstPersonCamera` folder
 
 Contact :
 ------------
