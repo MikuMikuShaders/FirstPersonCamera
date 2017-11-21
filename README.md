@@ -5,6 +5,7 @@ A WASD keyboard layout to work with camera mode in MikuMikuDance, it is written 
 Requirements:
 -----------
 * MikuMikuDance (Only tested on 926 version x64)
+* [MMDPlugin](https://bowlroll.net/file/135503) (Only tested on 0.41 version x64)
 
 Install:
 -----------
