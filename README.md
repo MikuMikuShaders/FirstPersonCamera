@@ -1,6 +1,6 @@
 FirstPersonCamera
 ========
-A WASD keyboard layout in MikuMikuDance, it is written in C++ and based on [MMDPlugin](https://bowlroll.net/file/135503)
+A WASD keyboard layout to work with camera mode in MikuMikuDance, it is written in C++ and based on [MMDPlugin](https://bowlroll.net/file/135503)
 
 Requirements:
 -----------
@@ -13,7 +13,7 @@ Install:
 * Download this plugin from the github [release](https://github.com/MikuMikuShaders/FirstPersonCamera/releases/download/v0.01/MMDFirstPersonCamera.rar) page.
 * Un-zip the archive to `MikuMikuDance/MMDFirstPersonCamera` folder
 
-Contact :
+Contact:
 ------------
 　　If you are a developer using this as part of your love and considering contacting me, you can submit code by `Pull requests` or Feel free to contact me via `twitter` and `issues`, i'll add your profile to team members.
 
