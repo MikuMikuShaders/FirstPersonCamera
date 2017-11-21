@@ -13,6 +13,11 @@ Install:
 * Download this plugin from the github [release](https://github.com/MikuMikuShaders/FirstPersonCamera/releases/download/v0.01/MMDFirstPersonCamera.rar) page.
 * Un-zip the archive to `MikuMikuDance/plugin/MMDFirstPersonCamera` folder
 
+Features
+----------------
+W/A/S/D : Move the camera
+Left Mouse : Rotate the camera
+
 Contact:
 ------------
 　　If you are a developer using this as part of your love and considering contacting me, you can submit code by `Pull requests` or Feel free to contact me via `twitter` and `issues`, i'll add your profile to team members.
