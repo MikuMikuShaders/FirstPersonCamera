@@ -1,6 +1,6 @@
 FirstPersonCamera
 ========
-first-person editorial with MikuMikuDance, it can help to hint the relative brightness of objects or add beauty and atmospheric.
+`FirstPersonCamera` is an extension pack of MikuMikuDance, it is written in C++ and based on [MMDPlugin](https://bowlroll.net/file/135503)
 
 Requirements:
 -----------
