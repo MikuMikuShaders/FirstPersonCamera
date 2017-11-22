@@ -16,7 +16,7 @@ Install:
 * Un-zip the archive to `MikuMikuDance/plugin/MMDFirstPersonCamera` folder
 　　![Alt](./Screenshots/step2.png)
 
-Keyboard
+Keyboard:
 ----------------
 W/A/S/D : Move the camera 
 
