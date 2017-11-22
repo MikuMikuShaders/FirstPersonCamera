@@ -104,10 +104,10 @@ FirstPersonCamera::KeyBoardProc(WPARAM wParam, LPARAM lParam)
 				moveCamera(speed);
 
 			if (wParam == 'A')
-				yawCamera(-speed);
+				yawCamera(-speed * 0.5f);
 
 			if (wParam == 'D')
-				yawCamera(speed);
+				yawCamera(speed * 0.5f);
 		}
 	}
 }
