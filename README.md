@@ -9,6 +9,7 @@ Requirements:
 
 Install:
 -----------
+* Download a MMDPlugin Installter from [here](https://bowlroll.net/file/126059) and see [wiki](https://github.com/oigami/MMDUtility/wiki/how_to_install) for install
 * Download a MMDPlugin from [here](https://bowlroll.net/file/135503).
 * Un-zip the MMDPlugin to `MikuMikuDance` folder
 　　![Alt](./Screenshots/step1.png)
@@ -18,9 +19,9 @@ Install:
 
 Keyboard:
 ----------------
-W/A/S/D : Move the camera 
-
-Left Mouse : Rotate the camera
+* `W/A/S/D` : Move the camera 
+* `Left Mouse` : Rotate the camera
+* `Left Shift`: Speed x4
 
 Contact:
 ------------
